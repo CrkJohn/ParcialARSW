@@ -1,4 +1,4 @@
-package edu.eci.arsw.GuidFinderAPI;
+package edu.eci.arsw.GuidFinderAPI.copy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @EnableAutoConfiguration
-@ComponentScan({"controller","service"})
+@ComponentScan
 public class GuidFinderApiApplication {
 	
 	

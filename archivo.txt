@@ -1,0 +1,37 @@
+Establezca verdadero o falso en las siguientes sentencias:
+
+Rest es un protocolo que permite la interoperabilidad falso
+Rest es una tecnología que está basada sobre el protocolo http falso
+SOAP es un protocolo que tiene el objetivo tranferir mensajes entre aplicaciones distribuidas  verdadero
+Los componentes de rest son nouns,Adjectives,Representations  falso
+Los componentes de rest son nouns,verbs,Representations verdadero
+Los componentes de rest son nouns,Adjectives,Representations falso
+SOA es un protocolo de transferencia de mensajes entre aplicaciones distribuidas falso
+Uno de los principios SOA es baja densidad falso
+
+
+
+Explique cada uno de los niveles de madurez de REST
+
+Nivel o : peticion de funciones/servicios , analogia con rpc
+Nivel 1 : Existen los recursos con las peticiones 
+Nivel 2 : Se utilizan verbos http
+Nivel 3 : Ya obtenidos los recursos se decide que hacer con ellos, documentando y haciendo un descubrimiento facil
+
+Cuales son los componetes del SOAP-ENVELOPE y para que sirven
+
+Header Lleva la informacion de la aplicacion en proceso
+Body Lleva los mensajes de la aplicacion al destinatario
+Faile Almacenas los errores encontrados
+
+
+Defina la diferencia de un estilo arquitectónico cliente servidor y un P2P
+
+Cliente-Servidor es un estilo arquitectónico el cual el cliente realiza peticiones y el servidor responder dichas peticiones, P2P es similar como cliente-servidor pero con la unica diferencia es que el cliente
+tambien se vuelve servidor y el servidor tambien se vuelve cliente
+
+Escriba un ejemplo de un programa P2P y explique por que es P2P
+
+* 	skype
+
+es p2p ya que mientras que una persona habla y la otra escucha, la que tambien esta escuchando puede en cualquier momento hablar haciendo que la otra persona escuche lo que ella esta diciendo
